@@ -48,7 +48,7 @@ This project demonstrates how IoT + AI can be combined to build scalable solutio
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Innovista-Water-Monitoring.git
+git clone https://github.com/ArnoldRaj/Innovista-Water-Monitoring.git
 cd Innovista-Water-Monitoring
 ```
 
